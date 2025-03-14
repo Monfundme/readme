@@ -37,7 +37,7 @@ Each campaign on Monfundme is managed by an individual smart contract that ensur
 ### **2. Funding & Withdrawal**
 - Users can donate to a campaign using their Web3 wallets (Wagmi/Viem) or social authentication via Turnkey.
 - Funds are stored in the smart contract.
-- If the target amount is reached, the **Vote Executor Contract** allows for fund release.
+- If the campaign close date is reached, the **Vote Executor Contract** allows for fund release.
 - If the target is not reached within the deadline, donors can withdraw their contributions.
 
 ### **3. Blockchain Data Indexing & Real-time Updates**
