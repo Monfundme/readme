@@ -1,7 +1,7 @@
 # Monfundme Technical Documentation
 
 ## Overview
-Monfundme is a decentralized crowdfunding platform designed to bridge the gap between Web2 and Web3 users. It enables seamless interaction by allowing users to connect using traditional crypto wallets or social authentication, making it accessible for both crypto-native and Web2 users. The platform leverages blockchain technology for trustless and transparent crowdfunding campaigns.  
+Monfundme is a decentralized crowdfunding platform designed to bridge the gap between Web2 and Web3 users. It enables seamless interaction by allowing users to connect using traditional crypto wallets or social authentication, making it accessible for both crypto-native and Web2 users. The platform leverages monad's fast and gas efficient blockchain technology for trustless and transparent crowdfunding campaigns.  
 
 ## **Core Features**
 ### **1. Wallet Connection**
