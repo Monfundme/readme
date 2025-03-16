@@ -13,8 +13,8 @@ Monfundme provides two options for users to connect their wallets:
 Each campaign on Monfundme is managed by an individual smart contract that ensures secure transactions and governance. 
 
 #### **Smart Contracts Used:**
-- **[Monfundme Factory Contract](https://testnet.monadexplorer.com/address/0x741CfB7bA9712B23741)**: Deploys individual campaign smart contracts. The campaign is created only when the VoteExecutor contract approves it.
-- **[Vote Executor Contract](https://testnet.monadexplorer.com/address/0x6B9cE1B23741)**: Allows delegators to vote on whether a campaign should be approved before receiving funds.
+- **[Monfundme Factory Contract](https://testnet.monadexplorer.com/address/0x3f83C528C8a8749B0Bc888B2A73e861a7776b249)**: Deploys individual campaign smart contracts. The campaign is created only when the VoteExecutor contract approves it.
+- **[Vote Executor Contract](https://testnet.monadexplorer.com/address/0x220B433881bD28a7eAA85DD9Dc635C905266f98f)**: Allows delegators to vote on whether a campaign should be approved before receiving funds.
 
 ## **Technology Stack**
 
